@@ -1,0 +1,248 @@
+{
+    "Netflix": {
+        "shows": [
+            {
+                "name": "Love, Death & Robots",
+                "type": "Series",
+                "episodes": [
+                    {
+                        "name": "episode 1"
+                    },
+                    {
+                        "name": "episode 2"
+                    },
+                    {
+                        "name": "episode 3"
+                    }
+                ],
+                "duration": 35,
+                "genre": [
+                    "Anthology",
+                    "Science fantasy",
+                    "Adult animation",
+                    "Horror",
+                    "Black comedy"
+                ],
+                "releaseDate": {
+                    "dayAndMonth": "March 15",
+                    "year": 2019
+                }
+            },
+            {
+                "name": "Squid Game",
+                "type": "Series",
+                "episodes": [
+                    {
+                        "name": "episode 1"
+                    },
+                    {
+                        "name": "episode 2"
+                    },
+                    {
+                        "name": "episode 3"
+                    },
+                    {
+                        "name": "episode 4"
+                    },
+                    {
+                        "name": "episode 5"
+                    },
+                    {
+                        "name": "episode 6"
+                    },
+                    {
+                        "name": "episode 7"
+                    },
+                    {
+                        "name": "episode 8"
+                    },
+                    {
+                        "name": "episode 9"
+                    }
+                ],
+                "duration": 9,
+                "genre": [
+                    "Survival",
+                    "Thriller",
+                    "Adult animation",
+                    "Horror",
+                    "Drama",
+                    "Action"
+                ],
+                "releaseDate": {
+                    "dayAndMonth": "September 17",
+                    "year": 2021
+                }
+            },
+            {
+                "name": "Sex Education",
+                "type": "Series",
+                "episodes": [
+                    {
+                        "name": "episode 1"
+                    },
+                    {
+                        "name": "episode 2"
+                    },
+                    {
+                        "name": "episode 3"
+                    },
+                    {
+                        "name": "episode 4"
+                    },
+                    {
+                        "name": "episode 5"
+                    },
+                    {
+                        "name": "episode 6"
+                    },
+                    {
+                        "name": "episode 7"
+                    }
+                ],
+                "duration": 24,
+                "genre": [
+                    "Comedy drama",
+                    "Sex comedy",
+                    "Teen drama"
+                ],
+                "releaseDate": {
+                    "dayAndMonth": "January 11",
+                    "year": 2019
+                }
+            },
+            {
+                "name": "Stranger Things",
+                "type": "Series",
+                "episodes": [
+                    {
+                        "name": "episode 1"
+                    },
+                    {
+                        "name": "episode 2"
+                    },
+                    {
+                        "name": "episode 3"
+                    },
+                    {
+                        "name": "episode 4"
+                    },
+                    {
+                        "name": "episode 5"
+                    },
+                    {
+                        "name": "episode 6"
+                    }
+                ],
+                "duration": 34,
+                "genre": [
+                    "Science fiction",
+                    "Horror",
+                    "Mystery",
+                    "Drama"
+                ],
+                "releaseDate": {
+                    "dayAndMonth": "July 15",
+                    "year": 2016
+                }
+            }
+        ]
+    },
+    "Amazon Prime": {
+        "shows": [
+            {
+                "name": "The Boys",
+                "type": "Series",
+                "episodes": [
+                    {
+                        "name": "episode 1"
+                    },
+                    {
+                        "name": "episode 2"
+                    },
+                    {
+                        "name": "episode 3"
+                    },
+                    {
+                        "name": "episode 4"
+                    },
+                    {
+                        "name": "episode 5"
+                    },
+                    {
+                        "name": "episode 6"
+                    }
+                ],
+                "duration": 24,
+                "genre": [
+                    "Action",
+                    "Black comedy",
+                    "Drama",
+                    "Satire",
+                    "Superhero"
+                ],
+                "releaseDate": {
+                    "dayAndMonth": "July 26",
+                    "year": 2019
+                }
+            },
+            {
+                "name": "Invincible",
+                "type": "Series",
+                "episodes": [
+                    {
+                        "name": "episode 1"
+                    },
+                    {
+                        "name": "episode 2"
+                    },
+                    {
+                        "name": "episode 3"
+                    }
+                ],
+                "duration": 8,
+                "genre": [
+                    "Action",
+                    "Adventure",
+                    "Drama",
+                    "Science fiction",
+                    "Superhero"
+                ],
+                "releaseDate": {
+                    "dayAndMonth": "March 25",
+                    "year": 2021
+                }
+            },
+            {
+                "name": "House",
+                "type": "Series",
+                "episodes": [
+                    {
+                        "name": "episode 1"
+                    },
+                    {
+                        "name": "episode 2"
+                    },
+                    {
+                        "name": "episode 3"
+                    },
+                    {
+                        "name": "episode 4"
+                    },
+                    {
+                        "name": "episode 5"
+                    }
+                ],
+                "duration": 177,
+                "genre": [
+                    "Medical drama",
+                    "Drama"
+                ],
+                "releaseDate": {
+                    "dayAndMonth": "November 16",
+                    "year": 2004
+                }
+            }
+        ]
+    }
+}
